@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B8AFB,100:56CFE1&height=200&section=header&text=Farah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%26%20Backend&descAlignY=60&descSize=16" width="100%" />
@@ -14,11 +12,11 @@
 
 💻 Software Developer interested in building mobile applications and reliable backend systems.
 
-- 📱 Developing mobile apps with **Flutter & Dart**
-- ⚙️ Building backend APIs with **ASP.NET Core & C#**
-- 🗄️ Working with databases and application integration
-- 🚀 Learning, building projects, and improving my development skills
-- 📍 Jordan | Open to Junior Software Developer opportunities
+-  Developing mobile apps with **Flutter & Dart**
+-  Building backend APIs with **ASP.NET Core & C#**
+-  Working with databases and application integration
+-  Learning, building projects, and improving my development skills
+-  Jordan | Open to Junior Software Developer opportunities
 
 ## 🛠️ Tech Stack
 
@@ -28,17 +26,17 @@
 
 </div>
 
-## 🤝 Let's Connect
+##  Let's Connect!
 
 I'm interested in collaborating on projects and connecting with other developers.
 
-- 💼 GitHub: [@9kjf](https://github.com/9kjf)
-- 📧 Email: salehalharbi41@gmail.com
+-  GitHub: [@9kjf](https://github.com/9kjf)
+-  Email: salehalharbi41@gmail.com
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:56CFE1&height=100&section=footer" width="100%" />
 
-✨ *Building, learning, and growing one project at a time.*
+ *Building, learning, and growing one project at a time.*
 
 </div>
