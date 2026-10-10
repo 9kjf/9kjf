@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,dotnet,postgres,python,cpp,git,github,vscode,androidstudio&perline=6" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,python,cpp,git,github,vscode,androidstudio&perline=6" alt="Technology stack" />
 
 </div>
 
